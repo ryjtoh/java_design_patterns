@@ -1,4 +1,4 @@
-package creational_patterns.Factory.Buttons;
+package creational_patterns.FactoryMethod.Buttons;
 
 public class HtmlButton implements Button{
 

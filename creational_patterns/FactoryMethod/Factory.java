@@ -1,4 +1,4 @@
-package creational_patterns.Factory;
+package creational_patterns.FactoryMethod;
 /*
 Factory Definition:
     - a creational pattern that creates objects, but allows the return type of the object

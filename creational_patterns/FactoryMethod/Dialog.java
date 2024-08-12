@@ -1,6 +1,6 @@
-package creational_patterns.Factory.Factory;
+package creational_patterns.FactoryMethod;
 
-import creational_patterns.Factory.Buttons.Button;
+import creational_patterns.FactoryMethod.Buttons.Button;
 
 /**
  * Base factory class. Note that "factory" is merely a role for the class. It

@@ -1,4 +1,4 @@
-package creational_patterns;
+package creational_patterns.Prototype;
 /*
 Prototype(Clone) Definition:
     - a creational design pattern that allows you to copy existing objects without making

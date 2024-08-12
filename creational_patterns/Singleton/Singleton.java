@@ -1,4 +1,4 @@
-package creational_patterns;
+package creational_patterns.Singleton;
 /*
 Singleton definition:
     - Ensures that a class only has one instance that is globally accessible.

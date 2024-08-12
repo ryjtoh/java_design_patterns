@@ -1,7 +1,7 @@
-package creational_patterns.Factory.Factory;
+package creational_patterns.FactoryMethod;
 
-import creational_patterns.Factory.Buttons.Button;
-import creational_patterns.Factory.Buttons.HtmlButton;
+import creational_patterns.FactoryMethod.Buttons.Button;
+import creational_patterns.FactoryMethod.Buttons.HtmlButton;
 
 /**
  * HTML Dialog will produce HTML buttons.
